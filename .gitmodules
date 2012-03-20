@@ -1,0 +1,3 @@
+[submodule "HolidayCursor_Solution"]
+	path = HolidayCursor_Solution
+	url = git://github.com/AndroidCourseMaterial/HolidayCursor_Solution.git
